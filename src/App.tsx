@@ -7,7 +7,7 @@ import Typography from '@mui/material/Typography';
 
 export default function MediaCard() {
   return (
-    <Card sx={{ maxWidth: 34 }}>
+    <Card sx={{ maxWidth: 345 }}>
       <CardMedia
         sx={{ height: 140 }}
         image="https://random776.github.io/kacchan-uts2-22/pictures/gogatsubyo.jpeg"
